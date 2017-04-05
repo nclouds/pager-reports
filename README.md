@@ -21,7 +21,7 @@ Installation
 
 ### Replace the API_KEY
 
-Replace <YOUR_API_KEY> with your own pagerduty key in get_reports.py (read-only api key will work)
+Replace `<YOUR_API_KEY>` with your own pagerduty key in `get_reports.py` (read-only api key will work)
 
 #### Active virtual env and install the requirements
 `cd pager-reports`
