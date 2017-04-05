@@ -33,5 +33,7 @@ Replace <YOUR_API_KEY> with your own pagerduty key in get_reports.py (read-only 
 #### Run the script
 `./get_reports.py`
 
+The default location for reports is `incidents.csv` in the same folder and default location for output reports with notes is `reports.csv` in the same folder
+
 #### Get help
 `./get_reports.py --help`
